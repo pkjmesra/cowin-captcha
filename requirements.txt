@@ -1,4 +1,4 @@
-requests==2.22.0
+requests==2.31.0
 ratelimit==2.2.1
 CairoSVG==2.5.2
 mahotas==1.4.11
